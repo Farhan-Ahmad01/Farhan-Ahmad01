@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me farhanamd00@gmail.com
-- ⚡ Fun fact: I'm Batman ![image](https://github.com/user-attachments/assets/ca962165-0176-4b63-9c81-679fb6497173)
+- ⚡ Fun fact: I'm Batman
 
 
 <!---
