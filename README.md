@@ -1,6 +1,7 @@
 - 👋 Hey there! I'm Farhan 👨‍💻
-  ![LinkedIn Banner](https://github.com/user-attachments/assets/811a14fc-f38b-4d21-8464-fe0e83489ef2)
   
+  ![LI Banner 2](https://github.com/user-attachments/assets/92c8b711-0faa-45ec-884c-dd01504386e8)
+
 - 💻 I’m diving deep into **Software Development**
   
 - 🌱 Currently levelling up my skills in **Android Development**
