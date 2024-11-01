@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Farhan Ahmad
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me farhanamd00@gmail.com
-- ⚡ Fun fact: I'm Batman
+- 👋 Hey there! I'm Farhan 👨‍💻![LinkedIn Banner](https://github.com/user-attachments/assets/811a14fc-f38b-4d21-8464-fe0e83489ef2)
+- 💻 I’m diving deep into **Software Development**
+- 🌱 Currently levelling up my skills in **Android Development**
+- 🤝 Looking for exciting collaborations in mobile app projects and software development
+- 📫 You can reach me at **farhanamd00@gmail.com** for work or geeky conversations
+- ⚡ Fun fact: When I’m not coding, I’m probably **Batman** 🦇, saving Gotham... or maybe just debugging code.
 
 
 <!---
