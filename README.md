@@ -1,4 +1,4 @@
-- 👋 Hey there! I'm Farhan 👨‍💻
+- 👋 Hey there! I'm Farhan Ahmad 👨‍💻
   
   ![LI Banner 2](https://github.com/user-attachments/assets/92c8b711-0faa-45ec-884c-dd01504386e8)
 
