@@ -4,7 +4,7 @@
 
 - 💻 I’m diving deep into **Software Development**
   
-- 🌱 Currently levelling up my skills in **Android Development**
+- 🌱 Currently levelling up my skills in **Mobile App Development**
   
 - 🤝 Looking for exciting collaborations in mobile app projects and software development
   
